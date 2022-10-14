@@ -11,3 +11,15 @@ h2 {
   color: darkgoldenrod;
   padding-bottom: 50px;
 }
+
+h4 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding: 25px;
+}
+
+h5 {
+  text-align: center;
+  font-style: italic;
+  padding-bottom: 25px;
+}
+
