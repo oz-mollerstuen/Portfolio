@@ -23,7 +23,7 @@ _Site has ten links to ouside sources, eight for git repositories, one for email
 * _Internet access needed to view page_
 * _All content SFW_
 * _To view, visit site below:_
-* _ _
+* _oz-mollerstuen.github.io/Portfolio_
 
 ## Known Bugs
 
