@@ -8,7 +8,7 @@ h1 {
 h2 {
   text-align: center;
   font-family: cursive;
-  color: darkgoldenrod;
+  color: rgb(159, 97, 3);
   padding-bottom: 50px;
 }
 
@@ -29,7 +29,7 @@ h3 {
   text-align: top;
 }
 
-p1 {
-  text-align:right;
+body {
+  background-color: darkgray;
 }
 
