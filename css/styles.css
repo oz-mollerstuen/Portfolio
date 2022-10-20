@@ -3,12 +3,13 @@ h1 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   padding: 10px;
   padding-top: 50px;
+  
 }
 
 h2 {
   text-align: center;
   font-family: cursive;
-  color: rgb(159, 97, 3);
+  color: rgba(183, 116, 50, 0.996);
   padding-bottom: 50px;
 }
 
@@ -16,6 +17,10 @@ h4 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   padding: 15px;
   color: chocolate;
+  width: 320px;
+  border: 5px solid rgb(128, 128, 128);
+  margin: 0;
+  float: inline-start;
 }
 
 h5 {
@@ -34,3 +39,10 @@ body {
   background-color: darkgray;
 }
 
+ol {
+  width: 320px;
+  padding: 35px;
+  border: 5px solid rgb(166, 19, 19);
+  margin: 3;
+  float: inherit;
+}
